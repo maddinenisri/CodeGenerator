@@ -7,7 +7,7 @@ package com.mdstech.codegen.bo;
 */
 
 public class AnnotationPropertyBO {
-  private String key;
+  private String name;
   private String value;
   private boolean quotesRequired;
   
